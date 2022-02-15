@@ -1,0 +1,27 @@
+.my-classes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: flex-start;
+    width: 60vw;
+    height: 70vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    padding: 0.1em;
+}
+
+label{
+    padding: 1em;
+    font-size: 1.2em;
+}
+
+input{
+    padding: 1em;
+}
+
+button{
+    padding: 1em;
+    margin: 0.5em;
+}
