@@ -1,16 +1,45 @@
 .class {
-    width: 18vw;
-    height: 18vh;
+    width: 34vw;
+    height: 34vh;
     background-color: burlywood;
     color: black;
     margin: 0.5em;
     border-radius: 25px;
+    padding: 0.3em;
+    line-height: 0.8em;
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 0.8em;
     font-weight: bold;
-    text-align: center;
-    padding: 1.2em;
+    text-align: left;
 }
 
+.className {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.title, .department {
+    font-size: 1.2em;
+}
+
+.instructor, .description {
+    font-size: 0.8em;
+}
+
+.description{
+    text-indent: 10px;
+}
+
+.instructorInfo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    line-height: 0em;
+}
+
+.instructor{
+    margin-left: 0.3em;
+}
