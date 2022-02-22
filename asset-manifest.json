@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/favorite-classes/static/css/main.20ce724c.chunk.css",
-    "main.js": "/favorite-classes/static/js/main.96e138d5.chunk.js",
-    "main.js.map": "/favorite-classes/static/js/main.96e138d5.chunk.js.map",
-    "runtime~main.js": "/favorite-classes/static/js/runtime~main.88ea9df5.js",
-    "runtime~main.js.map": "/favorite-classes/static/js/runtime~main.88ea9df5.js.map",
-    "static/js/2.9d65692a.chunk.js": "/favorite-classes/static/js/2.9d65692a.chunk.js",
-    "static/js/2.9d65692a.chunk.js.map": "/favorite-classes/static/js/2.9d65692a.chunk.js.map",
-    "static/js/3.c70b6b5b.chunk.js": "/favorite-classes/static/js/3.c70b6b5b.chunk.js",
-    "static/js/3.c70b6b5b.chunk.js.map": "/favorite-classes/static/js/3.c70b6b5b.chunk.js.map",
+    "main.css": "/favorite-classes/static/css/main.4b508b0d.chunk.css",
+    "main.js": "/favorite-classes/static/js/main.4e70b107.chunk.js",
+    "main.js.map": "/favorite-classes/static/js/main.4e70b107.chunk.js.map",
+    "runtime-main.js": "/favorite-classes/static/js/runtime-main.1e174a85.js",
+    "runtime-main.js.map": "/favorite-classes/static/js/runtime-main.1e174a85.js.map",
+    "static/js/2.1b638908.chunk.js": "/favorite-classes/static/js/2.1b638908.chunk.js",
+    "static/js/2.1b638908.chunk.js.map": "/favorite-classes/static/js/2.1b638908.chunk.js.map",
+    "static/js/3.4ededd43.chunk.js": "/favorite-classes/static/js/3.4ededd43.chunk.js",
+    "static/js/3.4ededd43.chunk.js.map": "/favorite-classes/static/js/3.4ededd43.chunk.js.map",
     "index.html": "/favorite-classes/index.html",
-    "precache-manifest.dc3b73d30d42ac4ca8f3bb7137a931d8.js": "/favorite-classes/precache-manifest.dc3b73d30d42ac4ca8f3bb7137a931d8.js",
+    "precache-manifest.f2da0520fa9fd77ca7b88616ab5182ef.js": "/favorite-classes/precache-manifest.f2da0520fa9fd77ca7b88616ab5182ef.js",
     "service-worker.js": "/favorite-classes/service-worker.js",
-    "static/css/main.20ce724c.chunk.css.map": "/favorite-classes/static/css/main.20ce724c.chunk.css.map",
+    "static/css/main.4b508b0d.chunk.css.map": "/favorite-classes/static/css/main.4b508b0d.chunk.css.map",
+    "static/js/2.1b638908.chunk.js.LICENSE.txt": "/favorite-classes/static/js/2.1b638908.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/favorite-classes/static/media/logo.06e73328.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e174a85.js",
+    "static/js/2.1b638908.chunk.js",
+    "static/css/main.4b508b0d.chunk.css",
+    "static/js/main.4e70b107.chunk.js"
+  ]
 }
